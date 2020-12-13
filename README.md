@@ -1,6 +1,5 @@
-![BTC Logo](BTC.png)
+ ![BTC Dev Logo](https://1.bp.blogspot.com/-FygNmZRLywI/X9ajqgcUubI/AAAAAAAAL7U/WWmECCB4iJEO6vtl_ImYcEk91l0AbbOVgCNcBGAsYHQ/s320/BTC%2BDEV%2BLOGO.png)
 ### Hi there 👋
-
 # I'm BenTechCoder and this is my GitHub Profile
 I'm a student Web developer and this is my GitHub Profile where I learn and create. 
 
