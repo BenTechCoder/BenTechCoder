@@ -1,7 +1,8 @@
+![BTC Logo](BTC.png)
 ### Hi there 👋
 
 # I'm BenTechCoder and this is my GitHub Profile
-I'm a student Web developer and this is my GitHub Profile where I learn and create.
+I'm a student Web developer and this is my GitHub Profile where I learn and create. 
 
 <!--
 **BenTechCoder/BenTechCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
