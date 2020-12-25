@@ -1,4 +1,9 @@
+ ![BTC Dev Logo](https://1.bp.blogspot.com/-FygNmZRLywI/X9ajqgcUubI/AAAAAAAAL7U/WWmECCB4iJEO6vtl_ImYcEk91l0AbbOVgCNcBGAsYHQ/w522-h75/BTC%2BDEV%2BLOGO.png)
 ### Hi there 👋
+# I'm BenTechCoder:computer:
+I'm a student Web developer and this is my GitHub Profile where I learn and create. You can find out more about me and my work and skills below:grin:. 
+Enjoy!:wink:
+
 
 <!--
 **BenTechCoder/BenTechCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
