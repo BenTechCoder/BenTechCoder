@@ -1,8 +1,8 @@
 
 ### Hi there 👋
 # I'm Benjamin Lebron:computer:
-I'm a student Web developer and this is my GitHub Profile where I learn and create. You can find out more about me and my work and skills below:grin:. 
-Enjoy!:wink:
+I'm a student Web developer and this is my GitHub Profile where I learn and create. You can find out more about me and my work and skills below. 
+Enjoy!
 
 
 <!--
