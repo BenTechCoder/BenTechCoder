@@ -1,7 +1,7 @@
 
 ### Hi there 👋
-# I'm Benjamin Lebron:computer:
-I'm a student Web developer and this is my GitHub Profile where I learn and create. You can find out more about me and my work and skills below. 
+# I'm Benjamin Lebron 💻
+I'm a student Web developer. You can find out more about me and my work and skills at [benjaminlebron.com](https://benjaminlebron.com) and hire me at [www.lebronconsulting.tech](https://www.lebronconsulting.tech)
 Enjoy!
 
 
